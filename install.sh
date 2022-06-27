@@ -1,3 +1,4 @@
+#Testing VSCode Linux
 # Create new directory for nginx proxy manager
 mkdir -p npm
 cd npm
